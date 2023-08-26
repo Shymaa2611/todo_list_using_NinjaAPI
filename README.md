@@ -9,7 +9,7 @@
   add this code in urls.py in project 
   from api.views import api
   path("api/",api.urls),
-<p>5- create new file called schema</p>
+<p>5- create new file called schema in your app </p>
 
   
 </pre>
