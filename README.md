@@ -11,8 +11,7 @@
   path("api/",api.urls),
 <p>5- create new file called schema</p>
 
-https://github.com/Shymaa2611/todo_list_using_NinjaAPI/blob/8fd53b79e4d5a3c21432223bc8971ab31b954a4a/ninjaAPI.jpg
-http://127.0.0.1:8000/api/docs#/
   
 </pre>
-
+https://github.com/Shymaa2611/todo_list_using_NinjaAPI/blob/8fd53b79e4d5a3c21432223bc8971ab31b954a4a/ninjaAPI.jpg
+http://127.0.0.1:8000/api/docs#/
